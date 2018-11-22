@@ -1,5 +1,10 @@
+# coding: utf - 8
 import os
 import itertools
+
+'''
+自动截图n张
+'''
 
 
 class Screenshot():
